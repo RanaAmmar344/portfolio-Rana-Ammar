@@ -40,7 +40,7 @@ export const PROJECTS = [
     description:
       "A platform for creating huge collection of premium gold NFT’s made with love for our valuable customers",
     technologies: ["HTML", "CSS", "Nextjs", "TailwindCSS"],
-    link: "https://golden-years-frontend.vercel.app/",
+    link: "https://golden-years-taupe.vercel.app/",
   },
 
  
